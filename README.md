@@ -1,2 +1,2 @@
 # polygon
-project for everything
+project for everything.
